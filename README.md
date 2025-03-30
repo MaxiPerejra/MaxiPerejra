@@ -7,7 +7,6 @@ Jestem bardzo ambitną osobą, która ciągle się rozwija. Mimo, że jestem bar
 [ENG]
 I am a very ambitious individual who is continuously growing. Even though I am very young and just starting out in my programming career, I learn every day and embrace new challenges. I am looking for an environment where I can continue to develop and tackle programming-related problems. I strive to gain experience in both front-end and back-end development. I want to create creative, comprehensive, and efficient solutions while expanding my experience and skills.
 
-<img src="dino.jpg" alt="Opis obrazu" width="200"/>
 
 
 
