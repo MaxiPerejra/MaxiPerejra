@@ -1,4 +1,4 @@
-<img src="baner.jpg" alt="Alt text"/>
+<img src="baner2.png" alt="Banner Image"/>
 <h1 align="center">Hi 👋, I'm Maksymilian</h1>
 
 [PL]
